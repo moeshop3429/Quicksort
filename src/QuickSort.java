@@ -1,3 +1,12 @@
+/*Cree una clase en Java.
+
+comparando algoritmos..
+nombre: Isaias Mejía Morente
+Carnet: 202503928
+curso: estructura de datos
+tutor: ing. Brandon Chitay*/
+
+
 import java.util.Random;
 
 public class QuickSort {

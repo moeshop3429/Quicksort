@@ -1,6 +1,6 @@
 /*Cree una clase en Java.
 
-comparando algoritmos..
+QuickSort..
 nombre: Isaias Mejía Morente
 Carnet: 202503928
 curso: estructura de datos
